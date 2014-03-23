@@ -4,16 +4,26 @@
 	text-align: center;
 }
 
+/* Nav bar */
+.navbar-inverse{
+	background: rgba(0,0,0, .8);
+}
+/* Home Page */
+.main-header{
+	background: #000 url(../../public/images/homepage-jumbo.jpg) no-repeat center center;
+	background-size: cover;
+}
+
 /* For small screen sizes*/
 @media screen and (max-width: 767px){
 	body{
-		background: #000;
+		
 	}
 }
 
 /* For Larger screen Sizes*/
 @media screen and (min-width: 768px) and (max-width: 1024px){
 	body{
-		background: red;
+		
 	}
 }
