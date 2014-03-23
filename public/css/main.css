@@ -8,6 +8,14 @@
 .navbar-inverse{
 	background: rgba(0,0,0, .8);
 }
+/* buttons */ 
+.btn-primary{
+	background: #ff7c00;
+}
+.btn-default{
+	background: #909090;
+	color: #fff;
+}
 /* Home Page */
 .main-header{
 	background: #000 url(../../public/images/homepage-jumbo.jpg) no-repeat center top;
