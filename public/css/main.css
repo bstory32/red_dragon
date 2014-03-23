@@ -10,7 +10,7 @@
 }
 /* Home Page */
 .main-header{
-	background: #000 url(../../public/images/homepage-jumbo.jpg) no-repeat center center;
+	background: #000 url(../../public/images/homepage-jumbo.jpg) no-repeat center top;
 	background-size: cover;
 }
 
