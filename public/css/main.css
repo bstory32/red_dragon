@@ -1,8 +1,17 @@
+/*Rules for all screen sizes*/
+/* Utilities */
+.align-center{
+	text-align: center;
+}
+
+/* For small screen sizes*/
 @media screen and (max-width: 767px){
 	body{
 		background: #000;
 	}
 }
+
+/* For Larger screen Sizes*/
 @media screen and (min-width: 768px) and (max-width: 1024px){
 	body{
 		background: red;
